@@ -1,9 +1,12 @@
 import React from 'react';
+import Navbar from './components/layouts/Navbar';
 import './index.css';
 
 const App =()=>{
   return(
-    <div className='text-center font-bold text-red-500 py-10'>This is a new App</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
 
