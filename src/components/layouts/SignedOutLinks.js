@@ -6,7 +6,7 @@ const SignedOutLinks =()=>{
         <div>
             <ul className='text-white text-sm md:flex'>
                 <li className='sil'><NavLink to='#' >Signup</NavLink></li>
-                <li className='sil'><NavLink to='#' >Login</NavLink></li>
+                <li className='sil'><NavLink to='/signin' >Login</NavLink></li>
             </ul>
         </div>
     )

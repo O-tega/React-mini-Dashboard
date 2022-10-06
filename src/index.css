@@ -5,6 +5,6 @@
 
 @layer components{
     .sil{
-        @apply px-4 hover:rounded-md hover:bg-gray-700 py-1
+        @apply px-4 hover:rounded-md hover:bg-[#68383b] py-1
     }
 }
