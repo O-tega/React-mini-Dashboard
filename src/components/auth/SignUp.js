@@ -35,7 +35,7 @@ const SignUp =()=>{
                 <div className='w-[760px] md:grid grid-cols-2'>
                     <div className='flex flex-col justify-center'>
                         <p className='py-5 font-bold text-[#b7747d] text-lg pl-5'>
-                            SIGN-IN
+                            SIGN-UP
                         </p>
                         <form onSubmit={handleSubmit}>
                             <div className='flex flex-col px-5'>
